@@ -1,0 +1,72 @@
+{
+    "name":  "MRect_Retention",
+    "dimensions": {
+        "width": "300",
+        "height": "250"
+    },
+    "fields": {
+        "headline": "2018 BMW 3 Series",
+        "headline2": "www.socialhondadealers.com",
+        "photo": "//cas-assets.edmunds.com/images/original/en4varMKx8.png",
+        "logo": "//cas-assets.edmunds.com/images/medium/6op1aXC5n9.png",
+        "photoDisclaimer": "Shown with options.",
+        "disclaimerCopy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis lacus felis, vel convallis metus tempor et. Sed in dui leo. Duis non risus sed mauris tincidunt pharetra. Ut ac dictum dui. In vitae mi dui. Vestibulum nibh nulla, laoreet in mattis commodo, rhoncus consequat volutpat, rhoncus consequat volutpat.",
+        "cta": "Build & Price",
+        "cta2": "View Inventory",
+        "cta3": "Locate a Dealer",
+        "cta4": "View Incentives",
+        "impressionTag": "//cas-assets.edmunds.com/images/original/en4varMKx8.png",
+        "impressionTag2": "//cas-assets.edmunds.com/images/original/en4varMKx8.png",
+        "impressionTag3": "",
+        "clickthroughUrl": "",
+        "clickthroughUrl2": "",
+        "clickthroughUrl3": "",
+        "clickthroughUrl4": "",
+        "clickthroughUrl5": "",
+        "CLICK_URL_UNESC": ""
+    },
+    "fields1": {
+        "headline": "2018 BMW 3 Series",
+        "headline2": "www.socialhondadealers.com",
+        "photo": "//cas-assets.edmunds.com/images/original/en4varMKx8.png",
+        "logo": "//static.ed.edmunds-media.com/unversioned/img/oem-logos/audi-no_text.png",
+        "photoDisclaimer": "Shown with options.",
+        "disclaimerCopy": "",
+        "cta": "Build & Price",
+        "cta2": "View Inventory",
+        "cta3": "",
+        "cta4": "",
+        "impressionTag": "",
+        "impressionTag2": "",
+        "impressionTag3": "",
+        "clickthroughUrl": "",
+        "clickthroughUrl2": "",
+        "clickthroughUrl3": "",
+        "clickthroughUrl4": "",
+        "clickthroughUrl5": "",
+        "CLICK_URL_UNESC": ""
+    },
+    "fields1": {
+        "headline": "2018 Toyota Camry",
+        "headline2": "www.toyota.com",
+        "photo": "https://s3.amazonaws.com/edmunds-asset-packs-test/images/1hBV9r4-M04Ox3ZKgbQ9ypgbNYXmIJktfLTatVhG8foo/1524621156161/MY18_Camry_410x277pricing.png",
+        "logo": "https://s3.amazonaws.com/edmunds-asset-packs-test/images/1h-bbzwTFX83-40ROwmxuv8giAgvXOEuVhSVijq5hYI8/1515032698320/lgp_stk_rgbst_ss_150ppi_134x75.png",
+        "photoDisclaimer": "Shown with options.",
+        "disclaimerCopy": "",
+        "cta": "Build & Price",
+        "cta2": "View Inventory",
+        "cta3": "",
+        "cta4": "",
+        "impressionTag": "",
+        "impressionTag2": "",
+        "impressionTag3": "",
+        "clickthroughUrl": "",
+        "clickthroughUrl2": "",
+        "clickthroughUrl3": "",
+        "clickthroughUrl4": "",
+        "clickthroughUrl5": "",
+        "CLICK_URL_UNESC": ""
+    }
+
+
+}
